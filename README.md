@@ -127,4 +127,5 @@ Select one of the available numerical methods from the "Choose Method" section.
 - Tkinter elements for displaying the numerical data table.
 
 ## Description 
-The approximation of first-order ordinary differential solutions using Euler's explicit Implicit Runge Kutta2 and Runge Kutta4 methods is crucial in various scientific and engineering fields. Numerical methods, such as explicit Euler, implicit Euler, Runge-Kutta of order 2 and Runge-Kutta of order 4, are used to obtain approximate solutions to such equations.
+The application is a tool for solving first-order differential equations using numerical methods. It allows users to enter equations, apply methods such as Euler and Runge-Kutta, and visualize results through graphs and tables. It also compares the numerical solutions with the exact ones, calculating the errors for each chosen method, and offers the option to save the generated graphs.
+
