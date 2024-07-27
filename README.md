@@ -1,12 +1,12 @@
-#Approximation of the solutions of ordinary differential equations of order 1
+## Approximation of the solutions of ordinary differential equations of order 1
 
 
 ## Project 
 This Python project leverages Tkinter to develop a graphical user interface (GUI) designed for solving first-order linear differential equations. The application allows users to:
-**Input differential equations and initial conditions.
-**Choose from various numerical methods to approximate solutions.
-**Visualize the approximate solutions and compare them with exact solutions computed using SciPy's odeint function.
-**Assess the accuracy of numerical methods by visualizing both absolute and relative errors.
+-**Input differential equations and initial conditions.**
+-**Choose from various numerical methods to approximate solutions.**
+-**Visualize the approximate solutions and compare them with exact solutions computed using SciPy's odeint function.**
+-**Assess the accuracy of numerical methods by visualizing both absolute and relative errors.**
 
 ## Features
 ### Data Input:
@@ -124,5 +124,4 @@ Select one of the available numerical methods from the "Choose Method" section.
 - Tkinter elements for displaying the numerical data table.
 
 ## Description 
-Description:
 The approximation of first-order ordinary differential solutions using Euler's explicit Implicit Runge Kutta2 and Runge Kutta4 methods is crucial in various scientific and engineering fields. Numerical methods, such as explicit Euler, implicit Euler, Runge-Kutta of order 2 and Runge-Kutta of order 4, are used to obtain approximate solutions to such equations.
