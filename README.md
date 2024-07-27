@@ -1,12 +1,15 @@
 ## Approximation of the solutions of ordinary differential equations of order 1
 
 
-## Project 
-This Python project leverages Tkinter to develop a graphical user interface (GUI) designed for solving first-order linear differential equations. The application allows users to
-:-Input differential equations and initial conditions.
--Choose from various numerical methods to approximate solutions.
--Visualize the approximate solutions and compare them with exact solutions computed using SciPy's odeint function.
--Assess the accuracy of numerical methods by visualizing both absolute and relative errors.
+## Project
+
+This Python project leverages Tkinter to develop a graphical user interface (GUI) designed for solving first-order linear differential equations. The application allows users to:
+
+- Input differential equations and initial conditions.
+- Choose from various numerical methods to approximate solutions.
+- Visualize the approximate solutions and compare them with exact solutions computed using SciPy's `odeint` function.
+- Assess the accuracy of numerical methods by visualizing both absolute and relative errors.
+
 
 ## Features
 ### Data Input:
